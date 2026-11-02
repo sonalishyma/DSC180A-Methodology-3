@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Sonali Singh
-sssingh@ucsd.edu
+Sonali Singh and Sahar Zahir
